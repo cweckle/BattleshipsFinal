@@ -1,1 +1,1 @@
-# BattleshipsFinal
+# Battleships

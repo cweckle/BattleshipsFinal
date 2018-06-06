@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Board()
+comment1.params=size
+comment1.target=Board(boolean)
+comment2.params=page
+comment2.target=void\ draw(java.awt.Graphics)
+comment3.params=page
+comment3.target=void\ drawGame(java.awt.Graphics)
+comment4.params=page
+comment4.target=void\ drawMini(java.awt.Graphics)
+comment5.params=loc
+comment5.target=void\ placeHit(Location)
+comment6.params=loc
+comment6.target=void\ placeMiss(Location)
+numComments=7
